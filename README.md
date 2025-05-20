@@ -1,9 +1,12 @@
 📊 Dashboard RH – Analyse des Données RH
+
 Bienvenue sur ce projet de Dashboard RH interactif, conçu pour visualiser et analyser les données clés des ressources humaines d'une entreprise. Ce tableau de bord permet une prise de décision éclairée grâce à une vue d'ensemble claire et dynamique des effectifs, des performances, des salaires et bien plus encore.
 
 🚀 Fonctionnalités principales – Détails techniques
+
 🎛️ Filtres dynamiques (Département & Année)
 Implémentation de slicers interactifs permettant de filtrer les données par département et par année (2006 à 2017), facilitant l’analyse temporelle et sectorielle.
+
 👥 Effectifs globaux (Total, Actifs, Départs)
 Calculs dynamiques via mesures DAX pour afficher en temps réel les effectifs totaux, les employés actifs et ceux ayant quitté l’entreprise.
 
@@ -30,11 +33,14 @@ Diagramme circulaire ou jauge représentant les niveaux de satisfaction, basé s
 
 🗺️ Carte géographique de la répartition des effectifs
 Carte interactive avec géolocalisation des employés, mettant en évidence les zones de concentration (focus Afrique & Europe).
+
 🛠️ Technologies utilisées
 Power BI 
+
 🎯 Objectifs du projet
 Fournir une vue synthétique et interactive des données RH
 Identifier les tendances en matière de recrutement, de satisfaction et de performance
 Aider les décideurs à orienter leur stratégie RH
+
 📌 Apercu
 ![DASHBORD_RH](https://github.com/user-attachments/assets/00c64f84-8b0c-422d-8d87-ba12a3e02e6a)
