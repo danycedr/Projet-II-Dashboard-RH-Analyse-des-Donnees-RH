@@ -1,46 +1,47 @@
-📊 Dashboard RH – Analyse des Données RH
+📊 Dashboard RH – Analyse interactive des données RH
 
-Bienvenue sur ce projet de Dashboard RH interactif, conçu pour visualiser et analyser les données clés des ressources humaines d'une entreprise. Ce tableau de bord permet une prise de décision éclairée grâce à une vue d'ensemble claire et dynamique des effectifs, des performances, des salaires et bien plus encore.
+Bienvenue dans ce projet de visualisation interactive des données RH. L’objectif est de permettre aux décideurs RH de mieux comprendre les effectifs, les performances, les salaires, les recrutements et la satisfaction des employés à travers un dashboard Power BI dynamique et intuitif.
 
-🚀 Fonctionnalités principales – Détails techniques
+❓ Problématique
+Comment centraliser, analyser et visualiser efficacement les données RH pour accompagner la prise de décision stratégique au sein de l’entreprise ?
 
-🎛️ Filtres dynamiques (Département & Année)
-Implémentation de slicers interactifs permettant de filtrer les données par département et par année (2006 à 2017), facilitant l’analyse temporelle et sectorielle.
+🎯 Objectif principal
+Développer un dashboard RH interactif sous Power BI pour faciliter l’analyse en temps réel des indicateurs clés liés aux ressources humaines.
 
-👥 Effectifs globaux (Total, Actifs, Départs)
-Calculs dynamiques via mesures DAX pour afficher en temps réel les effectifs totaux, les employés actifs et ceux ayant quitté l’entreprise.
+✅ Résultats attendus
+Vue synthétique des effectifs, salaires, recrutements et performances
+Visualisations dynamiques et filtrables (par année, département, genre, etc.)
+Identification des tendances RH et des leviers d’amélioration
+Support décisionnel pour la stratégie de gestion du personnel
 
-⚖️ Répartition par genre (Hommes vs Femmes)
-Visualisation par cartes de ratios ou graphiques en barres empilées, avec segmentation automatique selon le genre.
-
-💰 Analyse des salaires par département
-Agrégation des salaires par service (Production, ITIS, Engineering, Management) avec indicateurs de performance (totaux, moyennes, écarts).
-
-💍 Statut marital des employés
-Diagramme circulaire interactif basé sur les données de l’état civil, permettant une segmentation sociale du personnel.
-
-🏢 Répartition des employés par département
-Graphique en barres horizontales illustrant la densité des effectifs par service, utile pour l’analyse de la structure organisationnelle.
-
-📈 Performance des employés
-Visualisation par catégories de performance (ex. : faible, moyen, élevé), avec codage couleur et possibilité de drill-down pour explorer les détails.
-
-📥 Sources de recrutement
-Histogramme des canaux de recrutement (réseaux sociaux, agences, cooptation, etc.), permettant d’évaluer l’efficacité des sources.
-
-😊 Satisfaction des employés
-Diagramme circulaire ou jauge représentant les niveaux de satisfaction, basé sur des enquêtes internes ou des scores d’évaluation.
-
-🗺️ Carte géographique de la répartition des effectifs
-Carte interactive avec géolocalisation des employés, mettant en évidence les zones de concentration (focus Afrique & Europe).
+🔧 Fonctionnalités principales
+Filtres dynamiques : Année et département (via slicers)
+Effectifs globaux : Totaux, actifs, départs
+Répartition par genre : Graphiques empilés ou circulaires
+Analyse des salaires : Moyenne, total, écart-type par service
+Structure organisationnelle : Répartition des employés par service
+Performance : Catégories (faible, moyenne, élevée) avec codage couleur
+Recrutement : Histogrammes des canaux d’acquisition
+Satisfaction : Jauge ou camembert sur les niveaux de satisfaction
+Géolocalisation : Carte des effectifs (focus Afrique & Europe)
 
 🛠️ Technologies utilisées
-Power BI 
+Power BI Desktop
+Langage DAX (pour les mesures dynamiques)
+Excel/CSV (comme source de données RH)
 
-🎯 Objectifs du projet
-Fournir une vue synthétique et interactive des données RH
-Identifier les tendances en matière de recrutement, de satisfaction et de performance
-Aider les décideurs à orienter leur stratégie RH
+🧠 Compétences mobilisées
+Data cleaning et modélisation de données RH
+Création de mesures DAX et d’indicateurs clés
+Visualisation de données avancée (graphes, cartes, jauges, etc.)
+Construction d’un tableau de bord interactif et ergonomique
 
-📌 Apercu
-![DASHBORD_RH](https://github.com/user-attachments/assets/00c64f84-8b0c-422d-8d87-ba12a3e02e6a)
+📊 Aperçu du dashboard
+
+![DASHBORD_RH](https://github.com/user-attachments/assets/86ed3126-cae7-4231-9bbd-4e929eb2e0d0)
+
+
+📌 Auteur
+👤 Manfo Nodèm Dany Cedrick
+🎓 Executive Master en Data Science – UNamur
+📫 LinkedIn | GitHub
